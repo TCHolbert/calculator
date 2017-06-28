@@ -1,0 +1,12 @@
+/******Template*******/
+
+/***** BASE STYLES *****/
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
+    color: red;
+}
+::-webkit-textfield-decoration-container{
+    border-color: blue;
+}
+
